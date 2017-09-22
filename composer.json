@@ -1,0 +1,26 @@
+{
+    "name": "lmm/aliyun-openapi-php-sdk",
+    "description": "aliyun php api",
+    "type": "library",
+    "version": "1.0.1",
+    "require": {
+         "php": ">=5.5",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        
+    },
+    "authors": [
+        {
+            "name": "lmm",
+            "email": "331889109@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.org"
+    }
+  }
+}
